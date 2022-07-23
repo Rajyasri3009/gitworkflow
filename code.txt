@@ -1,0 +1,4 @@
+pseudocode
+public String getNameById(int id)
+	return map.get(id);
+}
