@@ -2,3 +2,6 @@ pseudocode
 public String getNameById(int id)
 	return map.get(id);
 }
+public String hotFix(){
+	return "hot fix done";
+}
